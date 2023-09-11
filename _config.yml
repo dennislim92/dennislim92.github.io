@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Dennis Lim / Dennis Personal Site"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Dennis Lim"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,10 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Dennis Lim"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Welcome to my personal webpage. My name is Dennis Lim. I am a fifth year PhD economics candidate at the Singapore Management University , School of Economics. I will be on the job market from November 2023 onwards. My PhD advisor is Zhang Yichong, and my area of research is in topics relating to high-dimensional econometrics, particularly in weak identification of instrumental variables. I am also interested in treatment effects estimation, causal inference, synthetic controls, as well as conformal inference. Feel free to check out my research, or email me below for any questions
+"
+  location         : "Singapore"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
