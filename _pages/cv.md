@@ -17,15 +17,11 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2018: Research Assistant
+  * Singapore Management University
+  * Duties included: Literature review for time series forecasting
+  * Supervisor: Chow Hwee Kwan
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
@@ -35,9 +31,7 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+ 1.	A Conditional Linear Combination Test with Many Weak Instruments, with Zhang Yichong and Wang Wenjie, Journal of Econometrics, forthcoming
   
 Talks
 ======
