@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dennis Lim / Dennis Personal Site"
+title                    : "Dennis Lim Personal Site"
 title_separator          : "-"
 name                     : &name "Dennis Lim"
 description              : &description "personal description"
