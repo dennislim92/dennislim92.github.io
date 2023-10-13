@@ -24,9 +24,9 @@ Work experience
 
 Awards
 ======
-* Ph.D in Economics Full Scholarships, 2019-2023
-* Roberto S. Mariano Top MAE Student Award, 2019
-* Association of Chartered Certified Accountants (ACCA) Silver award, 2016
+* Ph.D in Economics Full Scholarships, Singapore Management University, 2019-2023
+* Roberto S. Mariano Top MAE Student Award, Singapore Management University, 2019
+* Association of Chartered Certified Accountants (ACCA) Silver award, Singapore Institute of Management, 2016
   
 Skills
 ======
