@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Banking & Finance, University of London, 2016
+* M.S. in Applied Economics, Singapore Management University, 2019
+* Ph.D in Economics, Singapore Management University, 2024 (expected)
 
 Work experience
 ======
@@ -29,12 +29,9 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* R Programming
+* Stata
+* LaTeX
 
 Publications
 ======
