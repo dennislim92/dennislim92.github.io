@@ -22,6 +22,11 @@ Work experience
   * Duties included: Literature review for time series forecasting
   * Supervisor: Chow Hwee Kwan
 
+Awards
+======
+* Ph.D in Economics Full Scholarships, 2019-2023
+* Roberto S. Mariano Top MAE Student Award, 2019
+* Association of Chartered Certified Accountants (ACCA) Silver award, 2016
   
 Skills
 ======
@@ -31,20 +36,23 @@ Skills
 
 Publications
 ======
- 1.	A Conditional Linear Combination Test with Many Weak Instruments, with Zhang Yichong and Wang Wenjie, Journal of Econometrics, forthcoming
+1. A Conditional Linear Combination Test with Many Weak Instruments, with Zhang Yichong and Wang Wenjie, Journal of Econometrics, forthcoming
   
-Talks
+Conference and Seminars
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+1. Presented at SH3 Conference on Econometrics, 2023
+2. Attended the Volatility Conference, 2023
+3. Attended the 17th International Symposium on Econometric Theory and Applications (SETA), 2023
+4. Attended the MPSS (Monash-Princeton-SJTU-SMU) Conference in Econometrics, 2023
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Teaching assistant (TA) for ECON611 Econometrics I (PhD level), 2022-2024, Singapore Management University. 			Instructor: Zhang Yichong
+* TA for ECON 107 Introduction to Econometrics (Undergraduate), 2023-2024, Singapore Management University. 			Instructor: Chow Hwee Kwan
+* TA for ECON 217 Macroeconomics of Income Distribution (Undergraduate), 2021-2022, Singapore Management University. 	Instructor: Ho Kong Weng
+* TA for Cor2100 Economics and Society (undergraduate), 2021-2022, Singapore Management University. 				Instructor: Ho Kong Weng
+* Taught the Masters in Economics programme's Math camp, 2020, Singapore Management University
   
-Service and leadership
+Referee Service
 ======
-* Currently signed in to 43 different slack teams
+* Econometric Theory 
