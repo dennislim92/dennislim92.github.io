@@ -32,7 +32,7 @@ Skills
 ======
 * R Programming
 * Stata
-* Matlab
+* MATLAB
 * LaTeX
 
   
