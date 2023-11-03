@@ -11,4 +11,4 @@ Publications
 
 Working Papers
 ======
-1. [A Valid Anderson-Rubin Test under Both Fixed and Diverging Number of Weak Instruments](https://dennislim92.github.io/files/JMP_Dennis_Lim.pdf)(Job Market Paper), with [Zhang Yichong](https://sites.google.com/site/yichongzhang86/home) and [Wang Wenjie](https://sites.google.com/site/wenjiemetrics/home)
+1. [A Valid Anderson-Rubin Test under Both Fixed and Diverging Number of Weak Instruments](https://dennislim92.github.io/files/JMP_Dennis_Lim.pdf) (Job Market Paper), with [Zhang Yichong](https://sites.google.com/site/yichongzhang86/home) and [Wang Wenjie](https://sites.google.com/site/wenjiemetrics/home)
