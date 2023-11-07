@@ -6,7 +6,7 @@ author_profile: true
 ---
 Publications
 ======
-1. [A Conditional Linear Combination Test with Many Weak Instruments](https://arxiv.org/pdf/2207.11137.pdf) with [Wang Wenjie](https://sites.google.com/site/wenjiemetrics/home) and [Zhang Yichong](https://sites.google.com/site/yichongzhang86/home), *Journal of Econometrics*, forthcoming 
+1. [A Conditional Linear Combination Test with Many Weak Instruments](https://www.sciencedirect.com/science/article/abs/pii/S0304407623003184) with [Wang Wenjie](https://sites.google.com/site/wenjiemetrics/home) and [Zhang Yichong](https://sites.google.com/site/yichongzhang86/home), *Journal of Econometrics*, [Arxiv Version](https://arxiv.org/pdf/2207.11137.pdf)
 
 
 Working Papers
