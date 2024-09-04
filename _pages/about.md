@@ -7,4 +7,4 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My name is Dennis Lim. I completed my Ph.D in economics at the Singapore Management University in July 2024. I will be on the job market from September 2024 onwards. My area of research is in topics relating to high-dimensional statistics, particularly in problems relating to weak identification. I am also interested in issues related to applied micro-econometrics, which include but not limited to treatment effects, causal inference, synthetic controls, as well as conformal inference. Feel free to check out my research, or email me if you have any questions.
+My name is Dennis Lim, and I graduated with a Ph.D. in Economics from Singapore Management University in July 2024. My research focuses on both theoretical and applied econometrics, with particular attention to weak identification and high-dimensional issues. Additionally, I have interests in treatment effects, causal inference, synthetic control, and conformal inference. I plan to further explore and extend my research in these areas in the future. Feel free to check out my research, or email me if you have any questions.
