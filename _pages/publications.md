@@ -14,3 +14,4 @@ Working Papers
 1. [A Valid Anderson-Rubin Test under Both Fixed and Diverging Number of Weak Instruments](https://dennislim92.github.io/files/JMP_Dennis_Lim_V4.pdf) with [Wang Wenjie](https://sites.google.com/site/wenjiemetrics/home) and [Zhang Yichong](https://sites.google.com/site/yichongzhang86/home)
 
 2. [A k-fold Inference for Synthetic Control](https://dennislim92.github.io/files/synthetic_control_for_factor_model.pdf)
+3. [Does national health insurance promote better indirect child outcomes: heterogeneous impact from estimation methods](https://dennislim92.github.io/files/Does national health insurance promote better indirect child outcomes.pdf)
