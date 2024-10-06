@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Banking & Finance, University of London, 2016
 * M.S. in Applied Economics, Singapore Management University, 2019
-* Ph.D in Economics, Singapore Management University, 2024 (expected)
+* Ph.D in Economics, Singapore Management University, 2024 
 
 Work experience
 ======
