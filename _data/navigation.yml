@@ -6,4 +6,8 @@ main:
     
   - title: "Curriculum Vitae"
     url: /cv/
+
+ - title: "Posts"
+    url: /posts/
+    
     
